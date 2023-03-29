@@ -10,7 +10,9 @@ Tech Stack Used:
 React.js and Material-UI and Styled-Components and Rapid-API.
 
 Description: 
-I recently built a YouTube clone using React and Material-UI. The purpose of the project was to create a user-friendly interface for searching and playing videos. 
+I recently built a YouTube clone using React and Material-UI. The purpose of the project was to create a user-friendly interface for searching and playing videos.
+
+
 Demo->https://darling-marshmallow-646c5c.netlify.app/
 
 _____________________________________________________________________________________________
@@ -23,6 +25,8 @@ Features:  Google Sign in, Last Seen, Last message, Add new group & sign out
 Tech Stack Used: JSX, React JS(Hooks, Component & Router), Firebase
 
 Description : Whatsapp Clone is a progressive web application that clones the WhatsApp web, which is created for group messaging
+
+
 Demo->https://whatsapp-d9ea8.firebaseapp.com/
 
 _____________________________________________________________________________________________________
@@ -35,6 +39,8 @@ Features: Order Process, accept payments, manage shipping and logistics and prov
 Tech Stack: HTML, CSS, & JavaScript
 
 Description: The primary goal of an e-commerce site is to sell goods and services online. This project deals with developing an e-commerce website for selling organic vegetables and fruits, it provides the user with a catalog of different category available for purchase in the store
+
+
 Demo->https://stirring-wisp-aa7ca3.netlify.app/
 
 _________________________________________________________________________________________________________________
@@ -46,4 +52,6 @@ Features: IMDb (an abbreviation of Internet Movie Database) is an online databas
 Tech Stack Used: HTML, CSS, JavaScript, React Js & Fetch APIs
 
 Description: List of all cards shown details of the cards when you hover on it . And if you click on the cards then you can watch the trailer and also if you click on pages then it shows different results according to the page.
+
+
 Demo->https://glittering-pudding-2e46f4.netlify.app/
